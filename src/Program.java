@@ -15,6 +15,10 @@ public class Program {
         
         System.out.println("Olá mundo");
         System.out.println(" Teste GitHub");
+        
+        
+        System.out.println("Trying a new commit");
+        System.out.println("Hello World");
     }
     
 }
